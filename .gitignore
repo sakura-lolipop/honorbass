@@ -1,0 +1,8 @@
+out/
+dexout/
+out_apk/
+base-unsigned.apk
+*.idsig
+res.zip
+dbcheck*/
+installed_check.apk
